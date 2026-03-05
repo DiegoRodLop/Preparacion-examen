@@ -78,6 +78,7 @@ Un v-for que recorra favoritos y renderice el componente UserCard.
 Uso de v-if / v-else para gestionar el estado de carga y los errores.
 
 **💡 Claves para aprobar (basado en tu examen anterior)**
+
 Async/Await: Asegúrate de usar try...catch en la función que hace el fetch. El profesor valorará que controles qué pasa si falla el internet o si el usuario no existe.
 
 No manipules el DOM: A diferencia del primer examen donde usabas document.getElementById, aquí todo debe hacerse mediante reactividad (ref o reactive) y directivas (v-model, v-bind).
